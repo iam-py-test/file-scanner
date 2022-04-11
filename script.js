@@ -6,5 +6,5 @@ console.log(e)
   result.textContent = "Scanning..."
   window.setTimeout(function(){
     result.innerText = "Result: This is a file\nDetection: File.MachineLearning100\nConfidence: 100%"
-  },20)
+  },100)
 }
